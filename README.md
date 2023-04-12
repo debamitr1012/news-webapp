@@ -6,3 +6,6 @@
   ```
   streamlit run App.py
   ```
+  ```
+  https://debamitr1012-news-webapp-app-dgrrx6.streamlit.app/
+  ```
